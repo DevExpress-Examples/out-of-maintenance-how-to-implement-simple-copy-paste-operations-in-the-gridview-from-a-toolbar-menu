@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [EditForm.cs](./CS/DXGridCRUDoperations/EditForm.cs) (VB: [EditForm.vb](./VB/DXGridCRUDoperations/EditForm.vb))
+* [Form1.cs](./CS/DXGridCRUDoperations/Form1.cs) (VB: [Form1.vb](./VB/DXGridCRUDoperations/Form1.vb))
+* [Person.cs](./CS/DXGridCRUDoperations/Person.cs) (VB: [Person.vb](./VB/DXGridCRUDoperations/Person.vb))
+* [Program.cs](./CS/DXGridCRUDoperations/Program.cs) (VB: [Program.vb](./VB/DXGridCRUDoperations/Program.vb))
+<!-- default file list end -->
 # How to implement simple copy/paste operations in the GridView from a toolbar menu
 
 
